@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MusicPlayer
 This is the music player with the interactive UI for the easy access for user
 This application can be used to play mp3 songs. The key features in this are as follows,
@@ -13,3 +14,6 @@ These features are implemented with the help of :-
 3. Viewpager
 4. SQLite Database
 5. Adapters.
+=======
+# Music-Player-Android
+>>>>>>> f7a5330ba793fd0888545b26a89d56311d975d66
